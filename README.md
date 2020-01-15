@@ -13,3 +13,41 @@ datahub links in the table below (requires UCSD email).
 [n01]: https://nbviewer.jupyter.org/github/SamLau95/cogs108disc-wi20/blob/master/disc01/disc01.ipynb
 [e01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/python-bootcamp-2019&subPath=lab01/
 [e02]: http://pythontutor.com/
+
+**Favorite meals in San Diego**
+
+- **The Taco Stand**
+- **Regens Pizzeria**
+- **Vallarta's**
+- **Tofu House**
+- **Musashi**
+- **Goody's**
+- **Tacos El Gordo**
+- **In N Out**
+- **Raki Raki Ramen**
+- **Phil's BBQ**
+- **Ootea**
+- Panda Express
+- Don Carlos
+- Tapioca Express
+- Chick Fil A
+- Poke One and a Half
+- Shogun
+- 85C Bakery
+- Honey's
+- Krispy krunchy chicken
+- Pho Hoa
+- Okan
+- Tj Tacos
+- The Jump
+- Mcdonald's
+- Woomiok
+- Oscar's
+- Snooze
+- Monello
+- Din Tai Fung
+- Gen BBQ
+- Cow Cali Restaurant
+- Salvatore
+- Hidden Fish
+- Kura Revolving Sushi
