@@ -14,10 +14,10 @@ datahub links in the table below (requires UCSD email).
 [e01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/python-bootcamp-2019&subPath=lab01/
 [e02]: http://pythontutor.com/
 
-**Favorite meals in San Diego**
+Favorite meals in San Diego (bolded = mentioned multiple times):
 
 - **The Taco Stand**
-- **Regens Pizzeria**
+- **Regents Pizzeria**
 - **Vallarta's**
 - **Tofu House**
 - **Musashi**
