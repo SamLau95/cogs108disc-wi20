@@ -8,7 +8,7 @@ help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
 
 copy: ## Copies section files into the official sections folder
-	rsync * ${OFFICIAL_REPO}
+	rsync -avh . ${OFFICIAL_REPO} --delete --exclude='.git/'
 
 push: copy ## Pushes both this repo and official repo to GitHub
 	git add -A
