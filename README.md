@@ -8,6 +8,7 @@ datahub links in the table below (requires UCSD email).
 | ---- | ------------------------------------------ | ---------- | --------------------------- | --------------------------------------------- |
 | 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01], [html][n01] | [Python Practice][e01a], [Python Tutor][e01b] |
 | 02   | Assignment 1                               | [PDF][s02] |                             | [Data Types, NumPy, pandas Practice][e02a]    |
+| 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03], [html][n03] | [Chapter 1 of PTDS][e03a]                     |
 
 [s01]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc01/disc01.ipynb
@@ -16,6 +17,10 @@ datahub links in the table below (requires UCSD email).
 [e01b]: http://pythontutor.com/
 [s02]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc02/disc02.pdf
 [e02a]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/python-bootcamp-2019&subPath=lab02/
+[s03]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc03/disc03.pdf
+[d03]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc03/disc03.ipynb
+[n03]: https://nbviewer.jupyter.org/github/SamLau95/cogs108disc-wi20/blob/master/disc03/disc03.ipynb
+[e03a]: https://www.textbook.ds100.org/ch/01/lifecycle_intro.html
 
 Favorite meals in San Diego (bolded = mentioned multiple times):
 
