@@ -4,12 +4,13 @@ This repo contains the slides, notebooks, and data used in Sam's discussions
 for COGS 108 Wi20. Access content via the file browser above, or via the UCSD
 datahub links in the table below (requires UCSD email).
 
-| Disc | Description                                | Slides     | Demo                        | Extras                                             |
-| ---- | ------------------------------------------ | ---------- | --------------------------- | -------------------------------------------------- |
-| 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01], [html][n01] | [Python Practice][e01a], [Python Tutor][e01b]      |
-| 02   | Assignment 1                               | [PDF][s02] |                             | [Data Types, NumPy, pandas Practice][e02a]         |
-| 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03], [html][n03] | [Chapter 1 of PTDS][e03a]                          |
-| 04   | pandas primer, A2                          | [PDF][s04] | (No Demo Today)             | [Chapter 3 of PTDS][e04a], [pandas tutorial][e04b] |
+| Disc | Description                                | Slides     | Demo                        | Extras                                                  |
+| ---- | ------------------------------------------ | ---------- | --------------------------- | ------------------------------------------------------- |
+| 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01], [html][n01] | [Python Practice][e01a], [Python Tutor][e01b]           |
+| 02   | Assignment 1                               | [PDF][s02] |                             | [Data Types, NumPy, pandas Practice][e02a]              |
+| 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03], [html][n03] | [Chapter 1 of PTDS][e03a]                               |
+| 04   | pandas primer, A2                          | [PDF][s04] | (No Demo Today)             | [Chapter 3 of PTDS][e04a], [pandas tutorial][e04b]      |
+| 05   | State, slicing, A3                         | [PDF][s05] | [DataHub][d05]              | [Sam's pandas slides][e05a], [Sam's pandas video][e05b] |
 
 [s01]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc01/disc01.ipynb
@@ -25,6 +26,10 @@ datahub links in the table below (requires UCSD email).
 [s04]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc04/disc04.pdf
 [e04a]: https://www.textbook.ds100.org/ch/03/pandas_intro.html
 [e04b]: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+[s05]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc05/disc05.pdf
+[d05]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc05/disc05.ipynb
+[e05a]: http://bit.ly/sam-pandas-01
+[e05b]: https://www.youtube.com/watch?v=7ns-k29aMgE&feature=youtu.be
 
 Favorite meals in San Diego (bolded = mentioned multiple times):
 
