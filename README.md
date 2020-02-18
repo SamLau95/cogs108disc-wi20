@@ -11,6 +11,7 @@ datahub links in the table below (requires UCSD email).
 | 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03], [html][n03] | [Chapter 1 of PTDS][e03a]                               |
 | 04   | pandas primer, A2                          | [PDF][s04] | (No Demo Today)             | [Chapter 3 of PTDS][e04a], [pandas tutorial][e04b]      |
 | 05   | State, slicing, A3                         | [PDF][s05] | [DataHub][d05]              | [Sam's pandas slides][e05a], [Sam's pandas video][e05b] |
+| 06   | A3 FAQ, Plotting, A4                       | [PDF][s06] | [DataHub][d06]              | [Chapter 6 of PTDS][e06a]                               |
 
 [s01]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc01/disc01.ipynb
@@ -23,13 +24,16 @@ datahub links in the table below (requires UCSD email).
 [d03]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc03/disc03.ipynb
 [n03]: https://nbviewer.jupyter.org/github/SamLau95/cogs108disc-wi20/blob/master/disc03/disc03.ipynb
 [e03a]: https://www.textbook.ds100.org/ch/01/lifecycle_intro.html
-[s04]: https://github.com/SamLau95/cogs108disc-fa19/blob/master/disc04/disc04.pdf
+[s04]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc04/disc04.pdf
 [e04a]: https://www.textbook.ds100.org/ch/03/pandas_intro.html
 [e04b]: https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 [s05]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc05/disc05.pdf
 [d05]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc05/disc05.ipynb
 [e05a]: http://bit.ly/sam-pandas-01
 [e05b]: https://www.youtube.com/watch?v=7ns-k29aMgE&feature=youtu.be
+[s06]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc06/disc06.pdf
+[d06]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc06/disc06.ipynb
+[e06a]: https://www.textbook.ds100.org/ch/06/viz_intro.html
 
 Favorite meals in San Diego (bolded = mentioned multiple times):
 
