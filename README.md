@@ -9,10 +9,11 @@ datahub links in the table below (requires UCSD email).
 | 01   | Introductions, Oakland License Plates Demo | [PDF][s01] | [DataHub][d01], [html][n01] | [Python Practice][e01a], [Python Tutor][e01b]           |
 | 02   | Assignment 1                               | [PDF][s02] |                             | [Data Types, NumPy, pandas Practice][e02a]              |
 | 03   | Project Proposal Feedback                  | [PDF][s03] | [DataHub][d03], [html][n03] | [Chapter 1 of PTDS][e03a]                               |
-| 04   | pandas primer, A2                          | [PDF][s04] | (No Demo Today)             | [Chapter 3 of PTDS][e04a], [pandas tutorial][e04b]      |
+| 04   | pandas primer, A2                          | [PDF][s04] |                             | [Chapter 3 of PTDS][e04a], [pandas tutorial][e04b]      |
 | 05   | State, slicing, A3                         | [PDF][s05] | [DataHub][d05]              | [Sam's pandas slides][e05a], [Sam's pandas video][e05b] |
 | 06   | A3 FAQ, Plotting, A4                       | [PDF][s07] | [DataHub][d06]              | [Chapter 6 of PTDS][e06a]                               |
 | 07   | Personal webpages with Jupyter, A5         | [PDF][s07] | [DataHub][d07]              | [Chutes and Ladders][e07a]                              |
+| 08   | A6                                         | [PDF][s08] |                             | [Donkey Case Study][e08a]                               |
 
 [s01]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc01/disc01.ipynb
@@ -38,6 +39,8 @@ datahub links in the table below (requires UCSD email).
 [s07]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc07/disc07.pdf
 [d07]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc07/jake_demo.ipynb
 [e07a]: http://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/
+[s08]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc08/disc08.pdf
+[e08a]: https://www.textbook.ds100.org/ch/13/linear_case_study.html
 
 Favorite meals in San Diego (bolded = mentioned multiple times):
 
