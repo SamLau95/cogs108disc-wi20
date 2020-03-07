@@ -14,6 +14,7 @@ datahub links in the table below (requires UCSD email).
 | 06   | A3 FAQ, Plotting, A4                       | [PDF][s07] | [DataHub][d06]              | [Chapter 6 of PTDS][e06a]                               |
 | 07   | Personal webpages with Jupyter, A5         | [PDF][s07] | [DataHub][d07]              | [Chutes and Ladders][e07a]                              |
 | 08   | A6                                         | [PDF][s08] |                             | [Donkey Weights][e08a], [Suspicions][e08b]              |
+| 09   | CAPEs, Life Advice, Final Projects         | [PDF][s09] |                             |                                                         |
 
 [s01]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc01/disc01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs108disc-wi20&subPath=disc01/disc01.ipynb
@@ -42,6 +43,7 @@ datahub links in the table below (requires UCSD email).
 [s08]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc08/disc08.pdf
 [e08a]: https://www.textbook.ds100.org/ch/13/linear_case_study.html
 [e08b]: https://danluu.com/discontinuities/
+[s09]: https://github.com/SamLau95/cogs108disc-wi20/blob/master/disc09/disc09.pdf
 
 Favorite meals in San Diego (bolded = mentioned multiple times):
 
